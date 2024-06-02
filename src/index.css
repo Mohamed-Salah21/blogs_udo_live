@@ -1,0 +1,12 @@
+.blogs-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.blogs-container > div {
+  width: 20%;
+  border: 1px solid #aaa;
+  text-align: center;
+}
